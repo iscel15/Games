@@ -1,19 +1,28 @@
-This repository contains a collection of classic games implemented in Python using the Pygame and Tkinter libraries. The code is relatively short and easy to read, making it a great resource for learning the basics of game programming in Python.
+# Classic Games
 
-The games included in this repository are:
+This repository contains Python scripts for classic games, including Minesweeper and Tic Tac Toe. The code is relatively short and uses libraries such as Pygame and Tkinter.
 
-Minesweeper
-Tetris
-Snake
-Pong
-Each game has its own directory, which contains a Python script and any necessary assets. The code is well-commented and organized, making it easy to understand and modify.
+## Getting Started
 
-To run a game, simply navigate to its directory and run the corresponding Python script. For example, to play Minesweeper, navigate to the minesweeper directory and run the minesweeper.py script.
+To run any of the games in this repository, you'll need to have Python installed. You can download Python from the official website [here](https://www.python.org/downloads/).
 
-If you're new to game programming in Python, here are some resources that you may find helpful:
+You'll also need to install the required libraries for each game. You can do this by running the following command:
 
-Pygame documentation
-Tkinter documentation
-Making Games with Python & Pygame
-Python Game Development Tutorial - Pong
-We hope you find these games useful and enjoyable. Happy coding!
+
+## Games
+
+### Minesweeper
+
+To learn how to make Minesweeper with Pygame, check out the [Pygame documentation](https://www.pygame.org/docs/).
+
+### Tic Tac Toe
+
+To learn how to make Tic Tac Toe with Tkinter, check out this [tutorial on Real Python](https://realpython.com/python-gui-tkinter/).
+
+## Contributing
+
+If you'd like to contribute to this repository, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
