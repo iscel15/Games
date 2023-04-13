@@ -10,4 +10,10 @@ Each game has its own directory, which contains a Python script and any necessar
 
 To run a game, simply navigate to its directory and run the corresponding Python script. For example, to play Minesweeper, navigate to the minesweeper directory and run the minesweeper.py script.
 
+If you're new to game programming in Python, here are some resources that you may find helpful:
+
+Pygame documentation
+Tkinter documentation
+Making Games with Python & Pygame
+Python Game Development Tutorial - Pong
 We hope you find these games useful and enjoyable. Happy coding!
